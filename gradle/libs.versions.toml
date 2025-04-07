@@ -2,7 +2,7 @@
 guava_version = "33.4.6-jre"
 junit_version = "5.12.1"
 hamcrest_version = "3.0"
-mockito_version = "5.16.1"
+mockito_version = "5.17.0"
 jmh_version = "1.37"
 
 [libraries]
