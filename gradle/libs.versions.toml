@@ -1,6 +1,6 @@
 [versions]
 guava_version = "33.4.8-jre"
-junit_version = "5.13.0"
+junit_version = "5.13.4"
 hamcrest_version = "3.0"
 mockito_version = "5.18.0"
 jmh_version = "1.37"
